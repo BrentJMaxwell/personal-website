@@ -2,33 +2,33 @@ export const items = [
   {
     id: 1,
     icon: "/assets/img/design.svg",
-    title: "Ui/Ux Design",
+    title: "CEO",
     description:
-      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.",
+      "I currently perform the CEO role for an early-stage startup.",
     bg: "bg-prink",
   },
   {
     id: 2,
     icon: "/assets/img/app-development.svg",
-    title: "App Development",
+    title: "B2B SaaS Advisory",
     description:
-      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.",
+      "My primary experience and passion is building B2B SaaS apps. I help startups by doing advisory and serving as an independent Board Director.",
     bg: "bg-catkrill",
   },
   {
     id: 3,
     icon: "/assets/img/photograph.svg",
-    title: "Photography",
+    title: "Product Design",
     description:
-      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.",
+      "I've had a heavy hand in product design for a few B2B SaaS products, and can help non-technical founders with this.",
     bg: "bg-catkrill",
   },
   {
     id: 4,
     icon: "/assets/img/webdev.svg",
-    title: "Web Development",
+    title: "Software Engineering Management",
     description:
-      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam euismod tincidunt volutpat.",
+      "I love building and product development functions, with my deepest experience being running software engineering.",
     bg: "bg-prink",
   },
 ];

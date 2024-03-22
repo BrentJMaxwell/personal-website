@@ -51,11 +51,11 @@ export default function PersonalInfo() {
           </div>
 
           <div className="bostami-parsonal-info-btn">
-            <a className="btn-1" href="/cv.pdf" download >
+            <a className="btn-1" href="https://salesmuse.ai" visit >
               <span style={{ color: "#fff" }} className="icon">
                 <i className="fa-regular fa-download"></i>
               </span>
-              download cv
+              Visit SalesMuse
             </a>
           </div>
         </div>
