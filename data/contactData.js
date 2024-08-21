@@ -16,7 +16,7 @@ export const contactData = [
     iconClass: "fa-regular fa-envelope-open-text",
     text: {
       label: "Email",
-      value: "brent@brentmaxwell.com",
+      value: "brent@maxwell.cool",
     },
   },
   {
