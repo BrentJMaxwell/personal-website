@@ -17,9 +17,9 @@ export default function Contact() {
         <div className="section-wrapper pr-60 pl-60 mb-60">
           <div className="contact-area bg-light-white-2">
             <h5 className="contact-title">
-              I'm always open to discussing produuct
+              Feel free to reach out to discuss
             </h5>
-            <h5 className="contact-title-b">design work or partnerships.</h5>
+            <h5 className="contact-title-b">technology roles, board roles or advisory.</h5>
            <ContactForm/>
           </div>
         </div>
