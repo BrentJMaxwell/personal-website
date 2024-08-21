@@ -10,7 +10,7 @@ export const contactItems = [
     id: 2,
     iconSrc: "/assets/img/icon/email-icon.png",
     title: "email ",
-    content: ["brent@brentmaxwell.com", "brent@brentmaxwell.com"],
+    content: ["brent@maxwell.cool", "brent@maxwell.cool"],
     bgColor: "bg-catkrill",
   },
   {
