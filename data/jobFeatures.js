@@ -2,9 +2,9 @@ export const items = [
   {
     id: 1,
     icon: "/assets/img/design.svg",
-    title: "CEO",
+    title: "CEO/CTO",
     description:
-      "I currently perform the CEO role for an early-stage startup.",
+      "My last two roles have been CEO of early stage startups. Prior to that I served as CTO, Solutions Architect and Director of Technology.",
     bg: "bg-prink",
   },
   {
